@@ -7,9 +7,13 @@
   <li>
     Make sure your computer and phone are connected to the same network
   </li>
-  
+
   <li>
     Clone this repo into your computer in terminal <em>"git clone https://github.com/Morakinyo-Joseph/live_frontal_face_detector.git"</em>
+  </li>
+  
+   <li>
+    Navigate to the cloned project directory in your terminal. 
   </li>
   
   <li>
@@ -41,3 +45,6 @@
   </li>
 
 </ol>
+
+
+<h3>Also note, any face captured will be saved in a folder named "media" in the root directory</h3>
